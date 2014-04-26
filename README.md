@@ -3,7 +3,7 @@ Microsoft_Word_Source_Code
 
 Microsoft Word for Windows Version 1.1a Source Code
 
-![alt tag](http://www.pixstudios.biz/noticias/noticias_fnd/administrator/image/huevos-de-pascua-ms-dos.jpg.png)
+![alt tag](http://www.blogcdn.com/downloadsquad.switched.com/media/2008/03/ms-word-1.jpg)
 
 
 MICROSOFT RESEARCH LICENSE AGREEMENT | Microsoft Word for Windows version 1.1a
